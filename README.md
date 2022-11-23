@@ -31,7 +31,12 @@ How to Use the Program
 ![Final_cap in action](https://user-images.githubusercontent.com/112205844/203657520-0266e1b4-f05c-4107-b8db-d5c0f765ee6c.png)
 
 
+
+
+
+
 Credits
+
   Credits go to the HyperionDev team as this i the final capston project of the bootcamp.  I have learned a lot and I hope this application I made
   with the help of the mentors, lectures and resources justify the hardwork they have done for us students.
 
